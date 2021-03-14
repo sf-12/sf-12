@@ -18,7 +18,6 @@
 おすすめのWebサイトを投稿できるSNSです。<br>
 みんなの投稿を閲覧したり、自分で投稿したり、コメント欄で語り合ったりできます。<br>
 「かんたんログイン」ボタンを押すと、ユーザー登録不要でご覧いただけます。<br>
-
 <br>
 サイトURL：https://site-stocker.com<br>
 githubリポジトリ：https://github.com/sf-12/SiteStocker<br>
