@@ -13,6 +13,9 @@
 |  2020年11月  |  DMM WEB CAMPにてWeb系の学習を開始  |
 |  現在  |  学習を継続しつつ、転職活動中  |
 
+### 取得資格等
+[こちら]()をご覧ください。
+
 ### ポートフォリオ 「SiteStocker」
 ![SiteStocker紹介画像](https://user-images.githubusercontent.com/49280097/111062484-69605000-84ec-11eb-8bda-98b2830e65af.png)
 おすすめのWebサイトを投稿できるSNSです。<br>
