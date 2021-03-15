@@ -21,7 +21,7 @@
 サイトURL：https://site-stocker.com<br>
 githubリポジトリ：https://github.com/sf-12/SiteStocker<br>
 
-## 取得資格やコンペなどの自己学習
+## 資格取得やコンペティションへの参加などの自己学習
 別のページにまとめてあります。<br>
 お手数ですが[こちら](https://github.com/sf-12/sf-12/blob/main/other-activities/README.md)をご覧ください。
 
