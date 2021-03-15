@@ -22,7 +22,7 @@
 githubリポジトリ：https://github.com/sf-12/SiteStocker<br>
 
 ## 取得資格やコンペなど
-別のページにまとめてあります。
+別のページにまとめてあります。<br>
 お手数ですが[こちら](https://github.com/sf-12/sf-12/blob/main/other-activities/README.md)をご覧ください。
 
 ## その他外部リンク
