@@ -1,9 +1,7 @@
 [![](https://raw.githubusercontent.com/sf-12/sf-12/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sf-12/sf-12/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sf-12/sf-12/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-### 略歴
-
+## 略歴
 |  年月  |    |
 | ---- | ---- |
 |  2016年3月  |  中央大学法学部を卒業  |
@@ -13,10 +11,8 @@
 |  2020年11月  |  DMM WEB CAMPにてWeb系の学習を開始  |
 |  現在  |  学習を継続しつつ、転職活動中  |
 
-### 取得資格やコンペなど
-[こちら](https://github.com/sf-12/sf-12/blob/main/other-activities/README.md)をご覧ください。
-
-### ポートフォリオ 「SiteStocker」
+## ポートフォリオ 
+### 「SiteStocker」
 ![SiteStocker紹介画像](https://user-images.githubusercontent.com/49280097/111062484-69605000-84ec-11eb-8bda-98b2830e65af.png)
 おすすめのWebサイトを投稿できるSNSです。<br>
 みんなの投稿を閲覧したり、自分で投稿したり、コメント欄で語り合ったりできます。<br>
@@ -25,6 +21,9 @@
 サイトURL：https://site-stocker.com<br>
 githubリポジトリ：https://github.com/sf-12/SiteStocker<br>
 
-### その他外部リンク
+## 取得資格やコンペなど
+[こちら](https://github.com/sf-12/sf-12/blob/main/other-activities/README.md)をご覧ください。
+
+## その他外部リンク
 Twitter:https://twitter.com/s_f_1_2<br>
 Qiita:https://qiita.com/sf-12<br>
