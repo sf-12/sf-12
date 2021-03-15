@@ -30,22 +30,27 @@ kaggleというサイトで開催されたデータ分析コンペティショ�
 公式サイト：https://www.kaggle.com/<br>
 アカウント名：sf-12<br>
 コンペティションの成績：<br>
-・2019年06月 Jigsaw Unintended Bias in Toxicity Classification  442th	 /3165 (top14%)<br>
-・2019年08月 Predicting Molecular Properties				            674th	 /2749 (top25%)<br>
-・2019年12月 ASHRAE - Great Energy Predictor III			          476th	 /3614 (top14%)<br>
-・2020年01月 2019 Data Science Bowl					                    1376th /3497 (top40%)<br>
+
+| 年月 | タイトル | 成績 |
+| --- | --- | --- |
+|2019年06月 | Jigsaw Unintended Bias in Toxicity Classification | 442th /3165 (top14%)|
+|2019年08月 | Predicting Molecular Properties				            | 674th /2749 (top25%)|
+|2019年12月 | ASHRAE - Great Energy Predictor III			          | 476th /3614 (top14%)|
+|2020年01月 | 2019 Data Science Bowl					                  | 1376th /3497 (top40%)|
 <br>
 
-## 東京大学のデータサイエンティスト養成講座を受講
+## データサイエンティスト養成講座を受講
 自己啓発の一環として東京大学のデータサイエンティスト養成講座を受講しました。<br>
 概要は以下の通りです。<br>
 公式サイト：https://gci.t.u-tokyo.ac.jp/gci-online-course-2019/<br>
 期間:2019年12月～2020年03月<br>
 受講者約950名。修了者380名。<br>
 講座内で行われたコンペティションの成績：<br>
-・GCIコンペティション第1回：Titanic			                      501th	/799 (top63%)<br>
-・GCIコンペティション第2回：Red Wine Quality Prediction		    32th	/467 (top7%)<br>
-・GCIコンペティション第3回：PUBG Finish Placement Prediction	141th	/628 (top23%)<br>
+| タイトル | 成績 |
+| --- | --- |
+|GCIコンペティション第1回：Titanic			                     | 501th /799 (top63%)|
+|GCIコンペティション第2回：Red Wine Quality Prediction		   | 32th /467 (top7%)|
+|GCIコンペティション第3回：PUBG Finish Placement Prediction | 141th /628 (top23%)|
 <br>
 
 ## 書籍の校正に参加
