@@ -27,4 +27,7 @@ githubリポジトリ：https://github.com/sf-12/SiteStocker<br>
 
 ## その他外部リンク
 Twitter:https://twitter.com/s_f_1_2<br>
+日々の学習内容を投稿しています。<br>
+<br>
 Qiita:https://qiita.com/sf-12<br>
+いくつか記事を投稿しています。<br>
