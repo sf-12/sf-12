@@ -11,7 +11,7 @@
 |  2020年11月  |  DMM WEB CAMPに入学  |
 |    |  Ruby on Railsを中心に学習  |
 |  2021年2月  |  DMM WEB CAMPを卒業  |
-|  現在  |  引越し準備中 & 勉強中  |
+|  2021年5月〜現在  |  Web系自社開発企業 |
 
 ## ポートフォリオ 
 ### 「SiteStocker」
